@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "9aeb84aa-eb12-4ce3-909b-44a9bfb65fe1",
+      "title": "Proje bitir",
+      "status": "job",
+      "date": "29.02.2024"
+    },
+    {
+      "id": "410ea02f-d3af-4caa-a0cc-e9af0b743b93",
+      "title": "Erken uyan",
+      "status": "daily",
+      "date": "29.02.2024"
+    },
+    {
+      "id": "871824d1-7e1c-4f97-a6fb-9e370a61030a",
+      "title": "Spor yap",
+      "status": "important",
+      "date": "29.02.2024"
+    }
+  ]
+}
